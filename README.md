@@ -2,7 +2,7 @@
 
 ## Projects
 
-### Create an observing plane for gravitational-wave follow-up with a galaxy redshift survey:
+### Create an observing plan for gravitational-wave follow-up with a galaxy redshift survey:
 http://ubc-astrophysics.github.io/ObsPlan
 
 ### Infill a masked all-sky map through the masked region:
