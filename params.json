@@ -1,1 +1,7 @@
-{"name":"UBC Theoretical High-Energy Astrophysics","tagline":"","body":"# UBC Astrophysics\r\n\r\n## Projects\r\n\r\nhttp://ubc-astrophysics.github.io/ObsPlan\r\n\r\nhttp://ubc-astrophysics.github.io/kd-match\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+  "name": "UBC Theoretical High-Energy Astrophysics",
+  "tagline": "",
+  "body": "# UBC Astrophysics\r\n\r\n## Projects\r\n\r\n### Create an observing plan for gravitational-wave follow-up with a galaxy redshift survey:\r\nhttp://ubc-astrophysics.github.io/ObsPlan\r\n\r\n### Infill a masked all-sky map through the masked region:\r\nhttp://ubc-astrophysics.github.io/InfillHEALPy\r\n\r\n### Find point sources from Fermi data \r\nhttp://ubc-astrophysics.github.io/FermiFAST\r\n\r\n### Rapidly find the transformation between two lists of stars, assuming just a translation, translation, rotation and  scaling, or general affine transformations: \r\nhttp://ubc-astrophysics.github.io/kd-match\r\n\r\n### Scripts for interacting with an EdX server (packaging libraries, LTI uploads etc):\r\nhttp://ubc-astrophysics.github.io/TeachingScripts\r\n\r\n### Ports of Lloyd Trefethen's MATLAB spectral methods scripts to python: \r\nhttp://ubc-astrophysics.github.io/Spectal\r\n\r\n",
+  "google": "",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
