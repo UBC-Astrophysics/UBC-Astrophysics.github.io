@@ -8,6 +8,9 @@ http://ubc-astrophysics.github.io/ObsPlan
 ### Infill a masked all-sky map through the masked region:
 http://ubc-astrophysics.github.io/InfillHEALPy
 
+### Find point sources from Fermi data 
+http://ubc-astrophysics.github.io/FermiFAST
+
 ### Rapidly find the transformation between two lists of stars, assuming just a translation, translation, rotation and  scaling, or general affine transformations: 
 http://ubc-astrophysics.github.io/kd-match
 
