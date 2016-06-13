@@ -18,5 +18,5 @@ http://ubc-astrophysics.github.io/kd-match
 http://ubc-astrophysics.github.io/TeachingScripts
 
 ### Ports of Lloyd Trefethen's MATLAB spectral methods scripts to python: 
-http://ubc-astrophysics.github.io/Spectal
+http://ubc-astrophysics.github.io/Spectral
 
